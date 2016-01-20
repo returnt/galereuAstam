@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Галерея Astam.ru</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">menuActivity</string>
+
+    <string name="title_home">Выбор направления</string>
+    <string name="title_section1">Главная</string>
+    <string name="title_section2">Фотогалерея</string>
+    <string name="title_section3">Каталог продукции</string>
+    <string name="title_section4">Контакты</string>
+    <string name="title_section5">Выбор направления</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="download_pdf">Скачать файл в PDF</string>
+    <string name="catalog">Компания "Аста М" предлагает в Нижнем Новгороде свои услуги - монтаж натяжных потолков по честной цене. Нижегородское представительство московской фабрики организовывает прямые поставки материалов, поэтому стоимость продукции и услуг, как и их качество, Вас приятно удивят.
+        Квалифицированный персонал всегда готов внимательно отнестись к просьбам и пожеланиям клиентов и предложить то решение, которое наиболее точно будет отвечать запросам каждого.</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
